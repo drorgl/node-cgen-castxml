@@ -1,0 +1,21 @@
+{
+  "name": "node-cgen-castxml",
+  "description": "Node C++ Binding Generator, uses castxml",
+  "author": "Dror Gluska <drorgl@yahoo.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/unit.js"
+  },
+  "keywords": [
+    "c++",
+    "binding"
+  ],
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "xml2js": "^0.4.16"
+  }
+}

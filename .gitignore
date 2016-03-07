@@ -1,0 +1,9 @@
+
+/.ntvs_analysis.dat
+/.vs/node-cgen-castxml/v14/.suo
+/typings
+/node_modules
+/.vs
+/castxml
+*.js
+*.map
